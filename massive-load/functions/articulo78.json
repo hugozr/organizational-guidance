@@ -1,0 +1,62 @@
+[
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Registrar y cautelar eficientemente los ingresos y gastos del Ministerio.",
+        "literal": "a"
+    },
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Gestionar, tramitar y ejecutar el pago a proveedores, así como expedir constancias de pago.",
+        "literal": "b"
+    },
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Gestionar, tramitar y ejecutar el pago de remuneraciones, en base a la información que reporta la Oficina General de Recursos Humanos; así como expedir constancias de pago.",
+        "literal": "c"
+    },
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Registrar, controlar y reportar el calendario de pago y, cuando sea necesario, gestionar las ampliaciones del caso.",
+        "literal": "d"
+    },
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Registrar los formularios de las declaraciones de pago de tributos, para su cancelación.",
+        "literal": "e"
+    },
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Administrar, registrar y custodiar eficientemente las Cartas Fianza y demás títulos valores entregados en garantía.",
+        "literal": "f"
+    },
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Administrar y ejecutar el Fondo para Pagos en Efectivo de Caja Chica de los recursos de las Unidades Ejecutoras que se encuentren en el ámbito de su administración.",
+        "literal": "g"
+    },
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Realizar la conciliación de las cuentas bancarias de las Unidades Ejecutoras que se encuentren en el ámbito de su competencia.",
+        "literal": "h"
+    },
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Administrar el archivo de los expedientes que sustentan los pagos efectuados, en el marco de la normativa vigente.",
+        "literal": "i"
+    },
+    {
+        "articulo": "78",
+        "unidad_organica": "Oficina de Tesorería",
+        "funcion": "Otras funciones que le sean asignadas por la Oficina General de Administración.",
+        "literal": "j"
+    }
+]

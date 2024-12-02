@@ -1,12 +1,13 @@
 import { CollectionConfig } from 'payload/types';
-import { dependencesMassiveLoad } from '../utils';
+import { dependencesMassiveLoad, updateFunctionDescription } from '../utils';
 
 const Departments: CollectionConfig = {
   slug: 'departments',
-  auth: true,
+  auth: false,
   access: {
     read: () => true,
     update: () => true,
+    delete: () => true,
   },
   // Ejemplo de una configuración de acceso que permite acceso a todos los usuarios autenticados
   // access: {
@@ -18,20 +19,21 @@ const Departments: CollectionConfig = {
       path: '/massive-load',
       method: 'post',
       handler: async (req, res, next) => {
-        console.log("ANT");
-        const tracking: any = dependencesMassiveLoad();
+        const tracking: any = await dependencesMassiveLoad(req.body);
         res.status(200).send({ result: "ok" })
-        // const tracking: any = dependencesMassiveLoad(req.params.id)
-        // if (tracking) {
-        //   res.status(200).send({ tracking })
-        // } else {
-        //   res.status(404).send({ error: 'not found' })
-        // }
+      },
+    },
+    {
+      path: '/update-function-description',
+      method: 'post',
+      handler: async (req, res, next) => {
+        const upd: any = await updateFunctionDescription(req.body);
+        res.status(200).send({ updated: upd })
       },
     },
   ],
   admin: {
-    useAsTitle: 'email',
+    useAsTitle: 'name',
   },
   fields: [
     {
@@ -39,8 +41,18 @@ const Departments: CollectionConfig = {
       type: 'text',
     },
     {
-      name: 'functions',
+      name: 'functionDescription',
       type: 'textarea',
+    },
+    {
+      name: 'article',
+      type: 'text',
+    },
+    {
+      name: 'father', // required
+      type: 'relationship', // required
+      relationTo: 'departments', // required
+      hasMany: false,
     },
     {
       name: 'type', // required

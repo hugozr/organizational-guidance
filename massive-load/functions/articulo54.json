@@ -1,0 +1,38 @@
+[
+    {
+        "articulo": "54",
+        "unidad_organica": "Unidad de Servicio de Atención al Usuario",
+        "funcion": "Diseñar e implementar los procesos, procedimientos y métricas que permitan brindar en forma eficiente y oportuna la atención y asistencia técnica a los usuarios de los servicios informáticos del Ministerio, así como el uso adecuado de las herramientas y equipos informáticos.",
+        "literal": "a"
+    },
+    {
+        "articulo": "54",
+        "unidad_organica": "Unidad de Servicio de Atención al Usuario",
+        "funcion": "Brindar el soporte técnico a los sistemas operativos, software de base, aplicaciones y comunicación a los órganos y unidades orgánicas del Ministerio.",
+        "literal": "b"
+    },
+    {
+        "articulo": "54",
+        "unidad_organica": "Unidad de Servicio de Atención al Usuario",
+        "funcion": "Supervisar el mantenimiento preventivo y correctivo de los equipos informáticos asignados al personal del Ministerio.",
+        "literal": "c"
+    },
+    {
+        "articulo": "54",
+        "unidad_organica": "Unidad de Servicio de Atención al Usuario",
+        "funcion": "Orientar y capacitar al personal del Ministerio sobre el uso de las herramientas y recursos informáticos.",
+        "literal": "d"
+    },
+    {
+        "articulo": "54",
+        "unidad_organica": "Unidad de Servicio de Atención al Usuario",
+        "funcion": "Supervisar el cumplimiento de las normas y procedimientos dictados para el adecuado uso de los equipos y servicios informáticos en red.",
+        "literal": "e"
+    },
+    {
+        "articulo": "54",
+        "unidad_organica": "Unidad de Servicio de Atención al Usuario",
+        "funcion": "Otros que en el marco de sus competencias le sean asignadas por la Oficina de Tecnologías de la Información y Comunicación.",
+        "literal": "f"
+    }
+]

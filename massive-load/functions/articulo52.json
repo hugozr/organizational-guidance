@@ -1,0 +1,32 @@
+[
+    {
+        "articulo": "52",
+        "unidad_organica": "Unidad de Infraestructura Tecnológica",
+        "funcion": "Diseñar, implementar y administrar la infraestructura tecnológica del Ministerio, garantizando la administración de los servicios informáticos y la comunicación con las instancias de gestión educativa descentralizada a través de las redes de datos.",
+        "literal": "a"
+    },
+    {
+        "articulo": "52",
+        "unidad_organica": "Unidad de Infraestructura Tecnológica",
+        "funcion": "Establecer los estándares de equipamiento informático y recursos educativo-pedagógicos vinculados con tecnologías de la información, en concordancia con los lineamientos de la Oficina Nacional de Gobierno Electrónico Institucional - ONGEI y los objetivos institucionales establecidos.",
+        "literal": "b"
+    },
+    {
+        "articulo": "52",
+        "unidad_organica": "Unidad de Infraestructura Tecnológica",
+        "funcion": "Coordinar, supervisar y controlar los servicios de mantenimiento de la plataforma tecnológica del Ministerio.",
+        "literal": "c"
+    },
+    {
+        "articulo": "52",
+        "unidad_organica": "Unidad de Infraestructura Tecnológica",
+        "funcion": "Elaborar y ejecutar programas y planes de contingencia que permitan garantizar la continuidad de la operatividad en casos de emergencia.",
+        "literal": "d"
+    },
+    {
+        "articulo": "52",
+        "unidad_organica": "Unidad de Infraestructura Tecnológica",
+        "funcion": "Otras que en el marco de sus competencias le sean asignadas por la Oficina de Tecnologías de la Información y Comunicación.",
+        "literal": "e"
+    }
+]

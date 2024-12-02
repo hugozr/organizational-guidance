@@ -1,0 +1,32 @@
+[
+    {
+        "articulo": "48",
+        "unidad_organica": "Unidad de Calidad y Seguridad de la Información",
+        "funcion": "Implementar los procesos para el aseguramiento y control de calidad del sistema de información del Ministerio; así como el Plan de Seguridad de Información Institucional.",
+        "literal": "a"
+    },
+    {
+        "articulo": "48",
+        "unidad_organica": "Unidad de Calidad y Seguridad de la Información",
+        "funcion": "Verificar y validar que el Sistema de Información Institucional cumpla con los estándares de programación y gestión de base de datos definidos por la legislación vigente y mejores prácticas en la industria.",
+        "literal": "b"
+    },
+    {
+        "articulo": "48",
+        "unidad_organica": "Unidad de Calidad y Seguridad de la Información",
+        "funcion": "Garantizar la confidencialidad, integridad y disponibilidad de la información institucional administrada por los sistemas de información.",
+        "literal": "c"
+    },
+    {
+        "articulo": "48",
+        "unidad_organica": "Unidad de Calidad y Seguridad de la Información",
+        "funcion": "Formular los aspectos técnicos de seguridad que deban ser considerados dentro del planeamiento estratégico del Ministerio.",
+        "literal": "d"
+    },
+    {
+        "articulo": "48",
+        "unidad_organica": "Unidad de Calidad y Seguridad de la Información",
+        "funcion": "Otros que en el marco de sus competencias le sean asignadas por la Oficina de Tecnologías de la Información y Comunicación.",
+        "literal": "e"
+    }
+]

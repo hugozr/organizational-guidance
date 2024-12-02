@@ -1,0 +1,26 @@
+[
+    {
+        "articulo": "80",
+        "unidad_organica": "Oficina de Ejecución Coactiva",
+        "funcion": "Efectuar a nivel nacional las acciones de coerción contra las personas que mantienen créditos impagos derivados del otorgamiento de becas y créditos educativos.",
+        "literal": "a"
+    },
+    {
+        "articulo": "80",
+        "unidad_organica": "Oficina de Ejecución Coactiva",
+        "funcion": "Coordinar el trámite de los expedientes que se encuentren en condición de obligación exigible coactivamente y el cumplimiento de las acciones que correspondan al procedimiento de ejecución coactiva.",
+        "literal": "b"
+    },
+    {
+        "articulo": "80",
+        "unidad_organica": "Oficina de Ejecución Coactiva",
+        "funcion": "Programar, coordinar y ejecutar el procedimiento de ejecución coactiva.",
+        "literal": "c"
+    },
+    {
+        "articulo": "80",
+        "unidad_organica": "Oficina de Ejecución Coactiva",
+        "funcion": "Cumplir con las demás funciones que le competen de acuerdo con la normativa correspondiente.",
+        "literal": "d"
+    }
+]

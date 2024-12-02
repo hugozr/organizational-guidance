@@ -1,0 +1,56 @@
+[
+    {
+        "articulo": "111",
+        "unidad_organica": "Dirección de Educación Primaria",
+        "funcion": "Formular las políticas, planes, componentes pedagógicos de los modelos de servicio educativo y demás documentos normativos de la educación primaria.",
+        "literal": "a"
+    },
+    {
+        "articulo": "111",
+        "unidad_organica": "Dirección de Educación Primaria",
+        "funcion": "Implementar, monitorear y evaluar articuladamente las políticas, planes, modelos de servicio educativo y documentos normativos de educación primaria.",
+        "literal": "b"
+    },
+    {
+        "articulo": "111",
+        "unidad_organica": "Dirección de Educación Primaria",
+        "funcion": "Formular el Currículo Nacional y demás documentos normativos referidos al nivel, y dirigir su implementación.",
+        "literal": "c"
+    },
+    {
+        "articulo": "111",
+        "unidad_organica": "Dirección de Educación Primaria",
+        "funcion": "Formular y realizar estudios e investigaciones en materia de educación primaria.",
+        "literal": "d"
+    },
+    {
+        "articulo": "111",
+        "unidad_organica": "Dirección de Educación Primaria",
+        "funcion": "Diseñar y promover el uso de los recursos educativo-pedagógicos y tecnologías de la información en la educación primaria, en coordinación con el órgano competente.",
+        "literal": "e"
+    },
+    {
+        "articulo": "111",
+        "unidad_organica": "Dirección de Educación Primaria",
+        "funcion": "Formular las necesidades de formación docente en servicio, correspondientes a la educación primaria, así como los contenidos y modalidades pertinentes, e implementar y desarrollar programas y estrategias de formación.",
+        "literal": "f"
+    },
+    {
+        "articulo": "111",
+        "unidad_organica": "Dirección de Educación Primaria",
+        "funcion": "Brindar asistencia técnica en materias de su competencia, en coordinación con el órgano competente.",
+        "literal": "g"
+    },
+    {
+        "articulo": "111",
+        "unidad_organica": "Dirección de Educación Primaria",
+        "funcion": "Supervisar y evaluar el cumplimiento de la normativa bajo el ámbito de su competencia, e implementar acciones de mejora según corresponda.",
+        "literal": "h"
+    },
+    {
+        "articulo": "111",
+        "unidad_organica": "Dirección de Educación Primaria",
+        "funcion": "Otras que en el marco de sus competencias le sean asignadas por la Dirección General de Educación Básica Regular.",
+        "literal": "i"
+    }
+]

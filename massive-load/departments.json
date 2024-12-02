@@ -1,0 +1,414 @@
+{
+    "departments": [
+      {
+        "dependency": "Despacho Ministerial",
+        "type": "organo_de_alta_direccion"
+      },
+      {
+        "dependency": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_de_alta_direccion"
+      },
+      {
+        "dependency": "Despacho Viceministerial de Gestión Institucional",
+        "type": "organo_de_alta_direccion"
+      },
+      {
+        "dependency": "Secretaría General",
+        "type": "organo_de_alta_direccion"
+      },
+      {
+        "dependency": "Consejo Nacional de Educación",
+        "type": "organo_consultivo"
+      },
+      {
+        "dependency": "Órgano de Control Institucional",
+        "type": "organo_de_control"
+      },
+      {
+        "dependency": "Unidad de Control en Gestión",
+        "father": "Órgano de Control Institucional",
+        "type": "organo_de_control"
+      },
+      {
+        "dependency": "Unidad de Control Financiero",
+        "father": "Órgano de Control Institucional",
+        "type": "organo_de_control"
+      },
+      {
+        "dependency": "Procuraduría Pública",
+        "type": "organo_de_defensa_juridica"
+      },
+      {
+        "dependency": "Secretaría de Planificación Estratégica",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Oficina de Planificación Estratégica y Presupuesto",
+        "father": "Secretaría de Planificación Estratégica",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Financiamiento por Desempeño",
+        "father": "Oficina de Planificación Estratégica y Presupuesto",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Planificación y Presupuesto",
+        "father": "Oficina de Planificación Estratégica y Presupuesto",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Programación e Inversiones",
+        "father": "Oficina de Planificación Estratégica y Presupuesto",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Organización y Métodos",
+        "father": "Oficina de Planificación Estratégica y Presupuesto",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Oficina de Seguimiento y Evaluación Estratégica",
+        "father": "Secretaría de Planificación Estratégica",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Estadística",
+        "father": "Oficina de Seguimiento y Evaluación Estratégica",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Seguimiento y Evaluación",
+        "father": "Oficina de Seguimiento y Evaluación Estratégica",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Oficina de Medición de la Calidad de los Aprendizajes",
+        "father": "Secretaría de Planificación Estratégica",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Oficina de Tecnologías de la Información y Comunicación",
+        "father": "Secretaría de Planificación Estratégica",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Calidad y Seguridad de la Información",
+        "father": "Oficina de Tecnologías de la Información y Comunicación",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Sistemas de Información",
+        "father": "Oficina de Tecnologías de la Información y Comunicación",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Infraestructura Tecnológica",
+        "father": "Oficina de Tecnologías de la Información y Comunicación",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Unidad de Servicio de Atención al Usuario",
+        "father": "Oficina de Tecnologías de la Información y Comunicación",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Secretaría Nacional de la Juventud",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Dirección de Promoción, Organización y Gestión",
+        "father": "Secretaría Nacional de la Juventud",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Dirección de Investigación y Desarrollo",
+        "father": "Secretaría Nacional de la Juventud",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Dirección de Asistencia Integral y Monitoreo",
+        "father": "Secretaría Nacional de la Juventud",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Oficina General de Asesoría Jurídica",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Oficina General de Cooperación y Asuntos Internacionales",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Oficina de Defensa Nacional y de Gestión del Riesgo de Desastres",
+        "type": "organo_de_asesoramiento"
+      },
+      {
+        "dependency": "Oficina General de Administración",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Logística",
+        "father": "Oficina General de Administración",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Contabilidad y Control Previo",
+        "father": "Oficina General de Administración",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Tesorería",
+        "father": "Oficina General de Administración",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Ejecución Coactiva",
+        "father": "Oficina General de Administración",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina General de Recursos Humanos",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Gestión de Personal",
+        "father": "Oficina General de Recursos Humanos",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Gestión del Desarrollo y la Capacitación",
+        "father": "Oficina General de Recursos Humanos",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Bienestar Social y Relaciones Laborales",
+        "father": "Oficina General de Recursos Humanos",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina General de Comunicaciones",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Comunicaciones",
+        "father": "Oficina General de Comunicaciones",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Relaciones Interinstitucionales",
+        "father": "Oficina General de Comunicaciones",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Prensa",
+        "father": "Oficina General de Comunicaciones",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina General de Transparencia, Ética Pública y Anticorrupción",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Atención al Ciudadano y Gestión Documental",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Oficina de Diálogo",
+        "type": "organo_de_apoyo"
+      },
+      {
+        "dependency": "Dirección General de Educación Básica Regular",
+        "father": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Educación Inicial",
+        "father": "Dirección General de Educación Básica Regular",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Educación Primaria",
+        "father": "Dirección General de Educación Básica Regular",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Educación Secundaria",
+        "father": "Dirección General de Educación Básica Regular",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Educación Física y Deporte",
+        "father": "Dirección General de Educación Básica Regular",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección General de Educación Básica Alternativa, Intercultural Bilingüe y de Servicios Educativos en el Ámbito Rural",
+        "father": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Educación Básica Alternativa",
+        "father": "Dirección General de Educación Básica Alternativa, Intercultural Bilingüe y de Servicios Educativos en el Ámbito Rural",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Educación Intercultural Bilingüe",
+        "father": "Dirección General de Educación Básica Alternativa, Intercultural Bilingüe y de Servicios Educativos en el Ámbito Rural",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Servicios Educativos en el Ámbito Rural",
+        "father": "Dirección General de Educación Básica Alternativa, Intercultural Bilingüe y de Servicios Educativos en el Ámbito Rural",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección General de Servicios Educativos Especializados",
+        "father": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Educación Básica Especial",
+        "father": "Dirección General de Servicios Educativos Especializados",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Educación Básica para Estudiantes con Desempeño Sobresaliente y Alto Rendimiento",
+        "father": "Dirección General de Servicios Educativos Especializados",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Innovación Tecnológica en Educación",
+        "father": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección General de Desarrollo Docente",
+        "father": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección Técnico Normativa de Docentes",
+        "father": "Dirección General de Desarrollo Docente",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Evaluación Docente",
+        "father": "Dirección General de Desarrollo Docente",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Promoción del Bienestar y Reconocimiento Docente",
+        "father": "Dirección General de Desarrollo Docente",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Formación Inicial Docente",
+        "father": "Dirección General de Desarrollo Docente",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Formación Docente en Servicio",
+        "father": "Dirección General de Desarrollo Docente",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección General de Educación Superior Universitaria",
+        "father": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Políticas para el Desarrollo y Aseguramiento de la Calidad de la Educación Superior Universitaria",
+        "father": "Dirección General de Educación Superior Universitaria",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Coordinación y Promoción de la Calidad de la Educación Superior Universitaria",
+        "father": "Dirección General de Educación Superior Universitaria",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección General de Educación Técnico-Productiva y Superior Tecnológica y Artística",
+        "father": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Servicios de Educación Técnico-Productiva y Superior Tecnológica y Artística",
+        "father": "Dirección General de Educación Técnico-Productiva y Superior Tecnológica y Artística",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Gestión de Instituciones de Educación Técnico-Productiva y Superior Tecnológica y Artística",
+        "father": "Dirección General de Educación Técnico-Productiva y Superior Tecnológica y Artística",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Casa de la Literatura",
+        "father": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_desconcentrado"
+      },
+      {
+        "dependency": "Dirección Regional de Educación Lima Metropolitana",
+        "father": "Despacho Viceministerial de Gestión Pedagógica",
+        "type": "organo_desconcentrado"
+      },
+      {
+        "dependency": "Dirección General de Infraestructura Educativa",
+        "father": "Despacho Viceministerial de Gestión Institucional",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Formulación de Inversiones en Educación",
+        "father": "Dirección General de Infraestructura Educativa",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Gestión de Inversiones en Educación",
+        "father": "Dirección General de Infraestructura Educativa",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Supervisión y Liquidación de Inversiones en Educación",
+        "father": "Dirección General de Infraestructura Educativa",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección General de Gestión Descentralizada",
+        "father": "Despacho Viceministerial de Gestión Institucional",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Unidades de Gestión Educativa Local",
+        "father": "Dirección General de Gestión Descentralizada",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Fortalecimiento de la Gestión Educativa Descentralizada",
+        "father": "Dirección General de Gestión Descentralizada",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección General de Calidad de la Gestión Escolar",
+        "father": "Despacho Viceministerial de Gestión Institucional",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Fortalecimiento de Capacidades y Cultura de Integridad",
+        "father": "Dirección General de Calidad de la Gestión Escolar",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Dirección de Gestión Escolar",
+        "father": "Dirección General de Calidad de la Gestión Escolar",
+        "type": "organo_de_linea"
+      },
+      {
+        "dependency": "Programa Nacional de Infraestructura Educativa",
+        "type": "programa"
+      },
+      {
+        "dependency": "Programa Nacional de Becas y Crédito Educativo",
+        "type": "programa"
+      }
+    ]
+}

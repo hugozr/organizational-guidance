@@ -1,0 +1,68 @@
+[
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Implementar y gestionar el registro administrativo de las instituciones y programas educativos, así como de las instancias de gestión educativa descentralizada, conforme a las disposiciones que dicten las entidades u órganos competentes.",
+        "literal": "a"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Administrar el Sistema de Información de Apoyo a la Gestión de la Institución Educativa, en coordinación con las áreas competentes.",
+        "literal": "b"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Identificar la información cuantitativa, cualitativa y georreferenciada para los procesos de planeamiento, evaluación y monitoreo del sistema educativo.",
+        "literal": "c"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Diseñar y aplicar instrumentos censales y muestrales de recolección de información cuantitativa, cualitativa y georreferenciada del Sistema Educativo, relevantes para los procesos de investigación, planeamiento, evaluación y monitoreo, en coordinación con los órganos competentes.",
+        "literal": "d"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Diseñar, proponer y aplicar modelos de estimación, modelos de análisis espacial y proyección de variables e indicadores educativos, así como elaborar el reporte de dichos indicadores vinculados a la Política Educativa y a los procesos de planificación y gestión del sector Educación.",
+        "literal": "e"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Establecer estándares metodológicos para la definición y cálculo de las variables e indicadores educativos que permitan su comparación a nivel nacional, regional e internacional.",
+        "literal": "f"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Formular disposiciones respecto del proceso de estadística educativa, haciendo seguimiento y supervisando su cumplimiento en las Direcciones Regionales de Educación, o las que hagan sus veces, y las Unidades de Gestión Educativa Local, en coordinación con los órganos competentes.",
+        "literal": "g"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Contribuir al fortalecimiento de las capacidades regionales y locales en lo relacionado a la generación de información estadística y georreferenciada, y al análisis y producción de indicadores educativos, en coordinación con los órganos competentes.",
+        "literal": "h"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Integrar el Sistema Estadístico Nacional (SEN).",
+        "literal": "i"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Difundir la información oficial referida a estadísticas educativas ante las instancias pertinentes.",
+        "literal": "j"
+    },
+    {
+        "articulo": "39",
+        "unidad_organica": "Unidad de Estadística",
+        "funcion": "Otras que en el marco de sus competencias le sean asignadas por la Oficina de Seguimiento y Evaluación Estratégica.",
+        "literal": "k"
+    }
+]

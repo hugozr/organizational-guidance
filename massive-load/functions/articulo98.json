@@ -1,0 +1,32 @@
+[
+    {
+        "articulo": "98",
+        "unidad_organica": "Oficina de Prensa",
+        "funcion": "Programar, elaborar, editar y difundir las notas de prensa, comunicados, documentales, audios y videos relacionados con las actividades del Ministerio, así como las declaraciones ofrecidas por sus autoridades.",
+        "literal": "a"
+    },
+    {
+        "articulo": "98",
+        "unidad_organica": "Oficina de Prensa",
+        "funcion": "Efectuar el seguimiento e informar sobre las noticias relacionadas con el sector Educación.",
+        "literal": "b"
+    },
+    {
+        "articulo": "98",
+        "unidad_organica": "Oficina de Prensa",
+        "funcion": "Ejecutar actividades con periodistas y medios de comunicación, nacionales e internacionales, con el objetivo de posicionar y fortalecer la imagen del Ministerio.",
+        "literal": "c"
+    },
+    {
+        "articulo": "98",
+        "unidad_organica": "Oficina de Prensa",
+        "funcion": "Administrar y mantener actualizado el contenido del Portal de Transparencia del Ministerio.",
+        "literal": "d"
+    },
+    {
+        "articulo": "98",
+        "unidad_organica": "Oficina de Prensa",
+        "funcion": "Otras funciones que le sean encomendadas por la Oficina General de Comunicaciones.",
+        "literal": "e"
+    }
+]

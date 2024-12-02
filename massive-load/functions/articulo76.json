@@ -1,0 +1,56 @@
+[
+    {
+        "articulo": "76",
+        "unidad_organica": "Oficina de Contabilidad y Control Previo",
+        "funcion": "Efectuar diligentemente el registro, conciliación y análisis contable de la información financiera y custodiar los documentos de las operaciones financieras del Ministerio.",
+        "literal": "a"
+    },
+    {
+        "articulo": "76",
+        "unidad_organica": "Oficina de Contabilidad y Control Previo",
+        "funcion": "Formular, emitir, suscribir y presentar los estados financieros del Ministerio dentro de los plazos establecidos en la normativa aplicable.",
+        "literal": "b"
+    },
+    {
+        "articulo": "76",
+        "unidad_organica": "Oficina de Contabilidad y Control Previo",
+        "funcion": "Realizar la fiscalización y control previo de las operaciones administrativo-financieras de las Unidades Ejecutoras que se encuentren en el ámbito de su competencia.",
+        "literal": "c"
+    },
+    {
+        "articulo": "76",
+        "unidad_organica": "Oficina de Contabilidad y Control Previo",
+        "funcion": "Otorgar las certificaciones de crédito presupuestario de las Unidades Ejecutoras que se encuentren en el ámbito de su competencia.",
+        "literal": "d"
+    },
+    {
+        "articulo": "76",
+        "unidad_organica": "Oficina de Contabilidad y Control Previo",
+        "funcion": "Registrar oportunamente las anulaciones y habilitaciones de crédito presupuestario a fin de tramitar las modificaciones presupuestarias de las Unidades Ejecutoras que se encuentren en el ámbito de su administración.",
+        "literal": "e"
+    },
+    {
+        "articulo": "76",
+        "unidad_organica": "Oficina de Contabilidad y Control Previo",
+        "funcion": "Integrar la información contable, financiera y presupuestal del Pliego Ministerio de Educación.",
+        "literal": "f"
+    },
+    {
+        "articulo": "76",
+        "unidad_organica": "Oficina de Contabilidad y Control Previo",
+        "funcion": "Calcular, determinar y contabilizar los tributos que correspondan a las Unidades Ejecutoras que se encuentren en el ámbito de su competencia.",
+        "literal": "g"
+    },
+    {
+        "articulo": "76",
+        "unidad_organica": "Oficina de Contabilidad y Control Previo",
+        "funcion": "Realizar el registro contable de los bienes inmuebles del Ministerio.",
+        "literal": "h"
+    },
+    {
+        "articulo": "76",
+        "unidad_organica": "Oficina de Contabilidad y Control Previo",
+        "funcion": "Otras funciones que le sean asignadas por la Oficina General de Administración.",
+        "literal": "i"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "articulo": "50",
+        "unidad_organica": "Unidad de Sistemas de Información",
+        "funcion": "Analizar, diseñar, programar, comprobar, implementar, supervisar y brindar mantenimiento adecuado a los sistemas de información que requieran los órganos y unidades orgánicas del Ministerio.",
+        "literal": "a"
+    },
+    {
+        "articulo": "50",
+        "unidad_organica": "Unidad de Sistemas de Información",
+        "funcion": "Evaluar y recomendar software orientado a la solución de las necesidades de los órganos y unidades orgánicas del Ministerio.",
+        "literal": "b"
+    },
+    {
+        "articulo": "50",
+        "unidad_organica": "Unidad de Sistemas de Información",
+        "funcion": "Coordinar con los órganos y unidades orgánicas el despliegue de los sistemas de información del Ministerio.",
+        "literal": "c"
+    },
+    {
+        "articulo": "50",
+        "unidad_organica": "Unidad de Sistemas de Información",
+        "funcion": "Formular, ejecutar y supervisar el cumplimiento de los planes de trabajo para el óptimo funcionamiento de la base de datos de los sistemas en producción que utilicen la plataforma tecnológica del Ministerio.",
+        "literal": "d"
+    },
+    {
+        "articulo": "50",
+        "unidad_organica": "Unidad de Sistemas de Información",
+        "funcion": "Otros que en el marco de sus competencias le sean asignadas por la Oficina de Tecnologías de la Información y Comunicación.",
+        "literal": "e"
+    }
+]

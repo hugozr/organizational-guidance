@@ -1,0 +1,50 @@
+[
+    {
+        "articulo": "85",
+        "unidad_organica": "Oficina de Gestión de Personal",
+        "funcion": "Formular y ejecutar las acciones relacionadas con los procesos de incorporación, administración de personal, desvinculación, y administración de las compensaciones y pensiones, en observancia de la normativa aplicable.",
+        "literal": "a"
+    },
+    {
+        "articulo": "85",
+        "unidad_organica": "Oficina de Gestión de Personal",
+        "funcion": "Identificar y coordinar, con los órganos y unidades orgánicas correspondientes, las características de las funciones a desarrollar en los puestos de trabajo, así como los requisitos de idoneidad aplicables.",
+        "literal": "b"
+    },
+    {
+        "articulo": "85",
+        "unidad_organica": "Oficina de Gestión de Personal",
+        "funcion": "Coordinar y formular el Cuadro de Puestos de la Entidad, así como sus actualizaciones.",
+        "literal": "c"
+    },
+    {
+        "articulo": "85",
+        "unidad_organica": "Oficina de Gestión de Personal",
+        "funcion": "Elaborar, conservar y sistematizar los legajos de personal, así como la documentación sobre control de asistencia, desplazamientos y otras acciones de personal.",
+        "literal": "d"
+    },
+    {
+        "articulo": "85",
+        "unidad_organica": "Oficina de Gestión de Personal",
+        "funcion": "Formular la Planilla Única de Remuneraciones del personal activo y cesante, y administrar los sistemas correspondientes.",
+        "literal": "e"
+    },
+    {
+        "articulo": "85",
+        "unidad_organica": "Oficina de Gestión de Personal",
+        "funcion": "Coordinar, gestionar y monitorear con los órganos y unidades orgánicas de la Sede Central, los recursos presupuestales necesarios para el pago al personal activo y cesante.",
+        "literal": "f"
+    },
+    {
+        "articulo": "85",
+        "unidad_organica": "Oficina de Gestión de Personal",
+        "funcion": "Brindar asistencia técnica en las materias de su competencia.",
+        "literal": "g"
+    },
+    {
+        "articulo": "85",
+        "unidad_organica": "Oficina de Gestión de Personal",
+        "funcion": "Otras funciones que le sean asignadas por la Oficina General de Recursos Humanos.",
+        "literal": "h"
+    }
+]
