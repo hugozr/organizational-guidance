@@ -9,6 +9,7 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "jsx": "react",
+    "typeRoots": ["./src/types", "./node_modules/@types"],
     "paths": {
       "payload/generated-types": ["./src/payload-types.ts"],
        "@/*": ["./src/*"]

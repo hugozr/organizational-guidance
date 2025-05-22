@@ -1,13 +1,18 @@
 import express from 'express'
-import payload from 'payload'
+import payload from 'payload';
+import { keycloakAuth } from './middleware/keycloakAuth';
 
 require('dotenv').config()
 const app = express()
+
+
 
 // Redirect root to Admin panel
 app.get('/', (_, res) => {
   res.redirect('/admin')
 })
+
+app.use('/api/capabilities', keycloakAuth); // protege esta ruta con Keycloak
 
 const start = async () => {
   // Initialize Payload

@@ -9,6 +9,10 @@ import { buildConfig } from 'payload/config'
 import Users from './collections/Users'
 import Departments from './collections/Departments'
 import Functions from './collections/Funcions'
+import Subjects from './collections/Subjects'
+import SubjectsByFunctions from './collections/SubjectsByFunctions'
+import Capabilities from './collections/Capabilities'
+import Packages from './collections/Packages'
 
 
 export default buildConfig({
@@ -19,8 +23,12 @@ export default buildConfig({
   editor: slateEditor({}),
   collections: [
     Users,
+    Packages,
+    Capabilities,
     Departments,
-    Functions
+    Functions,
+    Subjects,
+    SubjectsByFunctions
   ],
   typescript: {
     outputFile: path.resolve(__dirname, 'payload-types.ts'),
